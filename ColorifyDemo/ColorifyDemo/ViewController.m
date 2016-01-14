@@ -19,7 +19,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-    NSString *string = @"Test denemeadsfas dfas dfas dfasdfasdfasdf asdfasdfasd asdfsdf";
+    NSString *string = @"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer a interdum mi, eget malesuada magna.";
     
     NSArray *arr = @[[UIColor redColor],[UIColor greenColor]];
     
